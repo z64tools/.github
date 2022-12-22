@@ -29,6 +29,6 @@ Tools for everybody.
  
  They are not recommended outside of very niche use-cases.
  
- - [**zzrtl**](https://github.com/z64tools/zzrtl) - HLE Zelda 64 scene editor in modern OpenGL
+ - [**zzrtl**](https://github.com/z64tools/zzrtl) - scriptable project management program
  - **zzconvert** - objex to f3dzex2 model converter
  - **zzplayas** - custom character importer
